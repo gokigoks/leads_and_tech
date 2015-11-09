@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.sopantech.com	TRUE	/	FALSE	1999999999	PHPSESSID	be6aa8837d9ad0b3c194d337e566b970
+.google.com	TRUE	/	FALSE	1999999999	NID	73=kwE3xYL4hOvl9ekAhkiG5I2CG_-xL2MCoDrUwJFD60-RnE5VaHHaOV0eOqppVe-sNKqiFutJM4rjS1nzbwB6R7IxhXrQcxR2ndnByE0X9OooAIiDt_P9p1Bhbbijm9kX
+
